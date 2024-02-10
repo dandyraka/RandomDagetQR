@@ -5,4 +5,5 @@ Tools untuk generate random 6 QR Code yang dimana salah satu QR code berisi link
 Install `npm i`  
 Run `npm start`
 
+### Hasil
 ![Example result](example.png "Example result")
